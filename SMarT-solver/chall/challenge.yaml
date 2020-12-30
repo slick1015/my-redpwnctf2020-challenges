@@ -1,0 +1,7 @@
+name: SMarT-solver
+description: |-
+  Find the correct flag. :)
+author: MrSlick
+flag: 'flag{thequickbrownfoxjumpedoverthelazydogandlearnedhowtoautomateanalysis}'
+provide:
+- ./SMarT-solver
